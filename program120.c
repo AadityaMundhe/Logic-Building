@@ -24,7 +24,7 @@ int main()
 
     // step 4 : use the memory (logic)
     
-    // Desllocate the memory 
+    // Deallocate the memory 
     free(Brr);
 
     return 0;
